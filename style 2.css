@@ -1,0 +1,13 @@
+h1 {
+  font-size : 100px;
+  color : #ad8574 ;
+  text-decoration : line-through;
+}
+
+p {
+  text-align : justify;
+  text-indent : 25px;   
+  word-spacing : 5px;
+}
+
+a {text-decoration : none}
