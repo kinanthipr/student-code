@@ -1,0 +1,33 @@
+.hello:link {
+	color: orangered;
+}
+
+.hello:hover {
+	color: darkgreen;
+	font-family: arial;
+	font-size: 50px;
+}
+
+.hello:active {
+	font-style: italic;
+}
+
+.hello:visited {
+	color: red;
+}
+
+li:nth-child(3n-2) a {
+	color: seagreen;
+}
+
+li:nth-child(odd) a:hover {
+	color: indianred;
+}
+
+li:nth-child(even) a:hover {
+	color: blueviolet;
+}
+
+p:last-of-type {
+	color: darkred;
+}
